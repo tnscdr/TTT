@@ -5,5 +5,19 @@
   "repoHost": "https://github.com",
   "files": [
     "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "tnscdr",
+      "name": "tnscdr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148212929?v=4",
+      "profile": "https://github.com/tnscdr",
+      "contributions": [
+        "code"
+      ]
+    }
   ]
 }
